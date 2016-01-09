@@ -40,7 +40,13 @@ $navbar-default-bg: #ecd9c6;
   background-color: #ecd9d6;
   color: black;
 }
-
+.article-actions{
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+.description{
+  margin-top: 0;
+}
 footer{
   margin-top: 45px;
   padding-top: 5px;
